@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="title" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="title_2" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_large_x</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="content" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+</resources>

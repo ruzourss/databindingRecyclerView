@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataBiding</string>
+    <string name="title_post_label">Título</string>
+    <string name="body_post_label">Contenido</string>
+</resources>
